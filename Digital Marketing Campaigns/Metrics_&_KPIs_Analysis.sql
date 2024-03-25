@@ -36,6 +36,8 @@ SET category = UPPER(LEFT(category,1))|| SUBSTRING(category,2,LENGTH(category)-1
 CREATE TABLE marketing_clean AS
 (SELECT * FROM marketing_alter);
 
+
+
 -- III. Ad-hoc tasks
 
 -- 1/ Calculate th REVENUE of each CAMPAIGN
