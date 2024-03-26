@@ -52,7 +52,7 @@ FROM marketing_clean
 GROUP BY campaign_id, campaign_name;
 
 -- 3/ Calculate ROMI of each CAMPAIGN
-SELECT campaign_id, campaign_name, ROUND(SUM(revenue-mark_spent)/SUM(mark_spent),2) romi
+SELECT campaign_id, campaign_name, ROUND(100.0*SUM(revenue-mark_spent)/SUM(mark_spent),2) romi
 FROM marketing_clean
 GROUP BY campaign_id, campaign_name;
 
