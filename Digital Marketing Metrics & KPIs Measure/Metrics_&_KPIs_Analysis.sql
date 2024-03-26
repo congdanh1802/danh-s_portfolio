@@ -66,7 +66,7 @@ SELECT category, ROUND(SUM(revenue),2) revenue
 FROM marketing_clean
 GROUP BY category;
 
--- 6/ Calculate the number of ORDERS of each CATEGORY
+-- 6/ Calculate the number of ORDERS of each CAMPAIGN
 SELECT campaign_id, campaign_name, ROUND(SUM(orders),2) total_order
 FROM marketing_clean
 GROUP BY campaign_id, campaign_name;
