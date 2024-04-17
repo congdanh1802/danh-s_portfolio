@@ -1,2 +1,2 @@
 # Danh's_portfolio
-
+#### As a data enthusiast with a specialization, I am eager to to embark on a career journey as a data analyst. With my specialization in Python, SQL, Excel, PowerB, I've cultivated a strong foundation in data manipulation, statistical analysis, and visualization techniques through independent learning and hands-on projects. Despite lacking professional experience, my passion for data-driven insights, complemented by my background in International Business Economics, equips me with the adaptability and problem-solving skills necessary to excel in this field. I thrive on challenges and am committed to continuous learning and growth.
