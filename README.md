@@ -1,2 +1,12 @@
-# Danh's_portfolio
-As a data enthusiast with a specialization, I am eager to to embark on a career journey as a data analyst. With my specialization in Python, SQL, Excel, PowerBI, I've cultivated a strong foundation in data manipulation, statistical analysis, and visualization techniques through independent learning and hands-on projects. My passion for data-driven insights, complemented by my background in International Business Economics, equips me with the adaptability and problem-solving skills necessary to excel in this field. I thrive on challenges and am committed to continuous learning and growth.
+# Finance Data PowerBI Dashboard
+
+## Problem Description
+This project is to analyse a financial record of an individual
+
+## Project Goals
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/473268d5-f5ce-47e7-b0c5-ec1a7bfb2fc2)
+
+
+## Project Files Explaination
