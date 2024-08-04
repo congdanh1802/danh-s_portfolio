@@ -18,3 +18,11 @@ Here are the questions I would like the PowerBI dashboards to answer:
 
 
 ## Project Files Explaination
+#### Finance_Data_raw.xlsx
+This is the folder that contains each month's Excel data in a separate Excel workbook. The dates range from Aug 2018 - Dec 2020.
+
+#### Finance_Data_clean.xlsx
+This is the clean version of raw data file after handling error values, missing values.
+
+#### Finance_Data_ashboard.pbix
+This is the main Power BI file containing the finance dashboards.
