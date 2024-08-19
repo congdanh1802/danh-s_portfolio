@@ -14,8 +14,11 @@
 - **Techniques Used:** Using SQL functions, including: SELECT, GROUP BY, Operators.
 
 ## 4. Results and Findings
-- **Key Results:** Summarize the main results of the analysis, including any statistical metrics, model performance, or insights gained.
-- **Visualizations:** (https://shorturl.at/brI41)
+- **Key Results:**
+  - High ROMI and Revenue from Youtube Blogger 
+  - Cost Inefficiency with Facebook LAL
+  - 
+- **Visualizations:** (https://shorturl.at/NTcuF)
 
 ## 5. Conclusion
 - **Summary of Insights:** Recap the key takeaways from the project.
