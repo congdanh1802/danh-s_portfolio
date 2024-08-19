@@ -15,7 +15,7 @@
 
 ## 4. Results and Findings
 - **Key Results:** Summarize the main results of the analysis, including any statistical metrics, model performance, or insights gained.
-- **Visualizations:** (in Data_Visualization.pdf)
+- **Visualizations:** (https://shorturl.at/brI41)
 
 ## 5. Conclusion
 - **Summary of Insights:** Recap the key takeaways from the project.
