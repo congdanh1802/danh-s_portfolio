@@ -16,14 +16,14 @@
 ## 4. Results and Findings
 - **Key Results:**
   - High ROMI and Revenue from Youtube Blogger 
-  - Cost Inefficiency with Facebook LAL
-  - 
+  - Cost Inefficiency and Poor Performance with Facebook LAL
+  - Effective Facebook Retargeting in terms of Click-through Rate (CTR)
 - **Visualizations:** (https://shorturl.at/NTcuF)
 
 ## 5. Conclusion
-- **Summary of Insights:** Recap the key takeaways from the project.
-- **Recommendations:** Provide any recommendations based on the analysis.
-- **Limitations:** Mention any limitations or challenges encountered during the project.
+- **Summary of Insights:** The analysis reveals that the company is achieving high Return on Marketing Investment (ROMI) and significant revenue from YouTube Blogger campaigns. However, Facebook Lookalike Audiences (LAL) are exhibiting cost inefficiency and poor performance. On the other hand, Facebook Retargeting is proving effective, particularly in terms of a strong Click-through Rate (CTR).
+- **Recommendations:** The company should focus on metrics that align with its current strategies. Additionally, it is recommended to enhance effective campaigns and reconsider underperforming ones.
+- **Limitations:** Without a clear understanding of the company's specific strategy, it is challenging to provide definitive recommendations based solely on the analysis and calculations.
 
 
 
