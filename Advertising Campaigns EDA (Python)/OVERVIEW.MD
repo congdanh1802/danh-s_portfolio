@@ -25,9 +25,24 @@
     - **Company916:** Females aged 40-44 have the highest average conversion rate.
     - **Company936:** Females aged 30-44 and males aged 40-44 show the highest average conversion rates.
     - **Company1178:** Both males and females aged 30-34 exhibit the highest average conversion rates.
-- **Visualizations:** Include or reference key plots, charts, or graphs that support the findings.
+- **Visualizations:** (included in https://shorturl.at/O0iMd)
 
 ## 5. Conclusion
-- **Summary of Insights:** Recap the key takeaways from the project.
-- **Recommendations:** Provide any recommendations based on the analysis.
-- **Limitations:** Mention any limitations or challenges encountered during the project.
+- **Summary of Insights:**
+  - **Audience Reach:** All companies effectively target the 30-34 age group.
+  - **Gender Targeting:** Company916 and Company1178 focus on men, while Company936 targets women.
+  - **Click-through Rates (CTR):** Company1178 has higher CTRs (0.0125%-0.02%) compared to the lower CTRs of Company916 and Company936 (below 0.01%).
+  - **Top CTR Segments:** 
+    - **Company916:** Males 45-49 and females 35-39.
+    - **Company936:** Females 45-49 and both genders 40-44.
+    - **Company1178:** Females 35-49.
+  - **Top Conversion Rate Segments:**
+    - **Company916:** Females 40-44.
+    - **Company936:** Females 30-44 and males 40-44.
+    - **Company1178:** Both genders 30-34.
+- **Recommendations:** 
+  - **Optimize Targeting:** Focus marketing efforts on the 30-34 age group, as this demographic is the most responsive across all campaigns.
+  - **Refine Gender Targeting:** Adjust campaigns to better address gender-specific preferences, particularly for Company916 and Company1178 which predominantly target men.
+  - **Improve CTR for Low-Performing Campaigns:** Enhance the strategies for Company916 and Company936 to increase their CTRs. Consider analyzing and optimizing ad content, placement, or targeting strategies.
+  - **Leverage High Conversion Rate Segments:** Tailor campaigns to the identified high-conversion segments for each company, ensuring that marketing messages and offers resonate with these groups to maximize conversions.
+- **Limitations:** The analysis is limited by the absence of specific company strategies, which makes it challenging to provide tailored recommendations based solely on the data. Further insights could be gained with a clearer understanding of each company's overall marketing objectives and goals.
