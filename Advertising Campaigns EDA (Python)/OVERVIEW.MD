@@ -2,20 +2,25 @@
 
 ## 1. Project Overview
 - **Objective:** Conducting EDA and Customer Segmentation for an Advertising Campaigns dataset.
-- **Context:** The data used in this project is from an anonymous organisation’s social media ad campaign. The data file can be downloaded from here. The file conversion_data.csv contains 1143 observations in 11 variables. Below are the descriptions of the variables.
+- **Context:** The data used in this project is from an anonymous organisation’s social media ad campaign. 
 - **Dataset:** This dataset is from Kaggle.
 
 ## 2. Data Description
-- **Dataset Overview:** Describe the dataset, including the number of records, features, and types of data (e.g., categorical, numerical).
-- **Data Cleaning:** Summarize the steps taken to clean and preprocess the data, including handling missing values, outliers, and data transformations.
-- **Exploratory Data Analysis (EDA):** Highlight key findings from the EDA, such as patterns, trends, or insights discovered in the data.
+- **Dataset Overview:** The file KAG_conversion_data.csv contains 1,143 observations across 11 variables, describing the performance of advertising campaigns and the people to whom the ads are shown. 
 
 ## 3. Methodology
-- **Analysis Approach:** Describe the overall approach taken for the analysis (e.g., statistical analysis, machine learning, visualization).
-- **Techniques Used:** List the specific techniques, algorithms, or models applied, along with brief explanations of why they were chosen.
+- **Analysis Approach:** Statistical analysis and Visualization
+- **Techniques Used:** Pandas, Numpy and Matoplotlib 
 
 ## 4. Results and Findings
-- **Key Results:** Summarize the main results of the analysis, including any statistical metrics, model performance, or insights gained.
+- **Key Results:**
+  - **Audience Reach:** Campaigns from all three companies reach the largest audience within the 30-34 age group.
+  - **Gender Targeting:** Products from Company916 and Company1178 are primarily marketed towards men, while those from Company936 are predominantly targeted towards women.
+  - **Click-through Rates (CTR):** The CTRs for Company916 and Company936 are generally below 0.01%, whereas Company1178’s CTRs range from 0.0125% to 0.02%.
+  - **Top CTR Customer Segments:**
+    - **Company916:** Males aged 45-49 and females aged 35-39 show the highest average CTR.
+    - **Company936:** Females aged 45-49, along with both males and females aged 40-44, exhibit the highest average CTR.
+    - **Company1178:** Females aged 35-49 demonstrate the highest average CTR.
 - **Visualizations:** Include or reference key plots, charts, or graphs that support the findings.
 
 ## 5. Conclusion
