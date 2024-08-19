@@ -21,6 +21,10 @@
     - **Company916:** Males aged 45-49 and females aged 35-39 show the highest average CTR.
     - **Company936:** Females aged 45-49, along with both males and females aged 40-44, exhibit the highest average CTR.
     - **Company1178:** Females aged 35-49 demonstrate the highest average CTR.
+  - **Top Conversion Rate Customer Segments:**
+    - **Company916:** Females aged 40-44 have the highest average conversion rate.
+    - **Company936:** Females aged 30-44 and males aged 40-44 show the highest average conversion rates.
+    - **Company1178:** Both males and females aged 30-34 exhibit the highest average conversion rates.
 - **Visualizations:** Include or reference key plots, charts, or graphs that support the findings.
 
 ## 5. Conclusion
