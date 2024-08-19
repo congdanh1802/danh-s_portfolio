@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2bb07639-b912-4d57-bb46-ada6c8a529db)# Marketing Campaingn RFM Analysis
-
 ## 1. Project Overview
 - **Objective:** Conduct RFM analysis on a marketing campaign to segment customers.
 - **Context:** The dataset contains customer transaction data from a marketing campaign, including the date of the last purchase, purchase frequency, and total spend. It is used for RFM analysis to segment customers based on their purchasing behavior, helping to optimize marketing strategies.
