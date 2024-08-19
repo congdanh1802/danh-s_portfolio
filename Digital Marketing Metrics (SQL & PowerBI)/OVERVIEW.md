@@ -18,7 +18,8 @@
   - High ROMI and Revenue from Youtube Blogger 
   - Cost Inefficiency and Poor Performance with Facebook LAL
   - Effective Facebook Retargeting in terms of Click-through Rate (CTR)
-- **Visualizations:** (https://shorturl.at/NTcuF)
+- **Visualizations:** 
+![image](https://github.com/user-attachments/assets/bd244662-6585-4a9b-9d3b-d7747fe9a620)
 
 ## 5. Conclusion
 - **Summary of Insights:** The analysis reveals that the company is achieving high Return on Marketing Investment (ROMI) and significant revenue from YouTube Blogger campaigns. However, Facebook Lookalike Audiences (LAL) are exhibiting cost inefficiency and poor performance. On the other hand, Facebook Retargeting is proving effective, particularly in terms of a strong Click-through Rate (CTR).
